@@ -1,0 +1,16 @@
+D:\PROJEKT\FormPluszGyorsbufe\FormPluszGyorsbufe\obj\Debug\netcoreapp3.1\FormPluszGyorsbufe.csproj.AssemblyReference.cache
+D:\PROJEKT\FormPluszGyorsbufe\FormPluszGyorsbufe\obj\Debug\netcoreapp3.1\FormPluszGyorsbufe.Form1.resources
+D:\PROJEKT\FormPluszGyorsbufe\FormPluszGyorsbufe\obj\Debug\netcoreapp3.1\FormPluszGyorsbufe.csproj.GenerateResource.cache
+D:\PROJEKT\FormPluszGyorsbufe\FormPluszGyorsbufe\obj\Debug\netcoreapp3.1\FormPluszGyorsbufe.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJEKT\FormPluszGyorsbufe\FormPluszGyorsbufe\obj\Debug\netcoreapp3.1\FormPluszGyorsbufe.AssemblyInfoInputs.cache
+D:\PROJEKT\FormPluszGyorsbufe\FormPluszGyorsbufe\obj\Debug\netcoreapp3.1\FormPluszGyorsbufe.AssemblyInfo.cs
+D:\PROJEKT\FormPluszGyorsbufe\FormPluszGyorsbufe\obj\Debug\netcoreapp3.1\FormPluszGyorsbufe.csproj.CoreCompileInputs.cache
+D:\PROJEKT\FormPluszGyorsbufe\FormPluszGyorsbufe\bin\Debug\netcoreapp3.1\FormPluszGyorsbufe.exe
+D:\PROJEKT\FormPluszGyorsbufe\FormPluszGyorsbufe\bin\Debug\netcoreapp3.1\FormPluszGyorsbufe.deps.json
+D:\PROJEKT\FormPluszGyorsbufe\FormPluszGyorsbufe\bin\Debug\netcoreapp3.1\FormPluszGyorsbufe.runtimeconfig.json
+D:\PROJEKT\FormPluszGyorsbufe\FormPluszGyorsbufe\bin\Debug\netcoreapp3.1\FormPluszGyorsbufe.runtimeconfig.dev.json
+D:\PROJEKT\FormPluszGyorsbufe\FormPluszGyorsbufe\bin\Debug\netcoreapp3.1\FormPluszGyorsbufe.dll
+D:\PROJEKT\FormPluszGyorsbufe\FormPluszGyorsbufe\bin\Debug\netcoreapp3.1\FormPluszGyorsbufe.pdb
+D:\PROJEKT\FormPluszGyorsbufe\FormPluszGyorsbufe\obj\Debug\netcoreapp3.1\FormPluszGyorsbufe.dll
+D:\PROJEKT\FormPluszGyorsbufe\FormPluszGyorsbufe\obj\Debug\netcoreapp3.1\FormPluszGyorsbufe.pdb
+D:\PROJEKT\FormPluszGyorsbufe\FormPluszGyorsbufe\obj\Debug\netcoreapp3.1\FormPluszGyorsbufe.genruntimeconfig.cache

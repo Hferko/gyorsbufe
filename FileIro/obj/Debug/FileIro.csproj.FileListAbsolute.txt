@@ -1,0 +1,7 @@
+D:\PROJEKT\FormPluszGyorsbufe\FileIro\bin\Debug\FileIro.exe.config
+D:\PROJEKT\FormPluszGyorsbufe\FileIro\bin\Debug\FileIro.exe
+D:\PROJEKT\FormPluszGyorsbufe\FileIro\bin\Debug\FileIro.pdb
+D:\PROJEKT\FormPluszGyorsbufe\FileIro\obj\Debug\FileIro.csproj.AssemblyReference.cache
+D:\PROJEKT\FormPluszGyorsbufe\FileIro\obj\Debug\FileIro.csproj.CoreCompileInputs.cache
+D:\PROJEKT\FormPluszGyorsbufe\FileIro\obj\Debug\FileIro.exe
+D:\PROJEKT\FormPluszGyorsbufe\FileIro\obj\Debug\FileIro.pdb
